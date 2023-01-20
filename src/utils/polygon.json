@@ -1,0 +1,19 @@
+{
+   "Polygons": [
+      {
+         "id": 2,
+         "title": "Polygon1",
+         "area": []
+      },
+      {
+         "id": 4,
+         "title": "Polygon2",
+         "area": []
+      },
+      {
+         "id": 6,
+         "title": "Polygon3",
+         "area": []
+      }
+   ]
+}
